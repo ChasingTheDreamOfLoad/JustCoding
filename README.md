@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # Hello ,Welcome
 
 This space is used to record the experience in my development
