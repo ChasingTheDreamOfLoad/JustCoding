@@ -13,6 +13,7 @@
 * [shell base](shell-script/shell-base/README.md)
   * [GPU smi](shell-script/shell-base/gpu-smi.md)
   * [add\_user](shell-script/shell-base/add\_user.md)
+* [Batch](shell-script/batch.md)
 
 ## ROS
 
