@@ -1,6 +1,6 @@
 # Docker introduce
 
-## 绍
+## 介绍
 
 Docker Engine 是一种开源容器化技术，用于构建和容器化您的应用程序。
 
