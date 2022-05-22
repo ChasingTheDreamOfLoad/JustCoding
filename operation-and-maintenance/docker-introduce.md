@@ -1,14 +1,12 @@
 # Docker introduce
 
-## 介绍
+## 绍
 
 Docker Engine 是一种开源容器化技术，用于构建和容器化您的应用程序。
 
 这里有一副图关于docker结构的图 这里**Client 是shell窗口 ，DOCKER\_HOST 是你的主机 ，Registry 是远端仓库 比如 docker hub（可以类比 github）**
 
-![](broken-reference)
-
-
+![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F9ejIAiUCfKkbEnbExeOt%2Fuploads%2FtzQUSjRMLeW9PEExXHnO%2Fimage.png?alt=media\&token=c0aa18ea-82f8-4134-b982-1b7ee42e1037)
 
 几个常用词
 
