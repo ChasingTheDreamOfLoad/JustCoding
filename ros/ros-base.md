@@ -1,3 +1,7 @@
+---
+layout: editorial
+---
+
 # ROS Base
 
 advertiseService 提供了 简易的编写 service的方式
